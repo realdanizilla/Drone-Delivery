@@ -6,6 +6,7 @@
   - [Tools and Techniques Utilized](#tools-and-techniques-utilized)
   - [Specific Results and Outcomes](#specific-results-and-outcomes)
   - [What I Have Learned From This Project](#what-i-have-learned-from-this-project)
+  - [How to Use this Repository](#how-to-use-this-repository)
 
 [Back to Top](#)
 
@@ -51,5 +52,17 @@ This project focuses on optimizing delivery routes for a drone delivery service.
 - **Data Manipulation with Python**: Strengthened skills in handling data with `pandas`.
 - **Optimization Techniques**: Learned how to minimize travel distances using quantitative methods.
 - **Decision Making with Data**: Developed competence in using data to determine efficient operational strategies.
+
+[Back to top](#drone-delivery-route-optimization)
+
+
+## How to Use this Repository
+
+1. Clone the Repository git clone https://github.com/realdanizilla/Drone-Delivery.git
+   
+2. Check the picture file to visually understand the location of selected cities
+3. Open the jupyter notebook to see how data was plotted and how distances were calculated
+4. Check the logic to calculate distances and number of deliveries to each city and how the best location was picked
+5. Change X or Y coordinates for one or more cities and number of deliveries and re-run the model to see the next best warehouse location
 
 [Back to top](#drone-delivery-route-optimization)
